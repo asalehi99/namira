@@ -4,5 +4,6 @@ int main(){
 
 	printf("hello world!");
 	puts("");
+	del del dedededededededededededededede
 
 }
